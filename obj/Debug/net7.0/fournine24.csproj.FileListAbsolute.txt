@@ -1,0 +1,14 @@
+C:\Users\student\source\repos\fournine24\bin\Debug\net7.0\fournine24.exe
+C:\Users\student\source\repos\fournine24\bin\Debug\net7.0\fournine24.deps.json
+C:\Users\student\source\repos\fournine24\bin\Debug\net7.0\fournine24.runtimeconfig.json
+C:\Users\student\source\repos\fournine24\bin\Debug\net7.0\fournine24.dll
+C:\Users\student\source\repos\fournine24\bin\Debug\net7.0\fournine24.pdb
+C:\Users\student\source\repos\fournine24\obj\Debug\net7.0\fournine24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\fournine24\obj\Debug\net7.0\fournine24.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\fournine24\obj\Debug\net7.0\fournine24.AssemblyInfo.cs
+C:\Users\student\source\repos\fournine24\obj\Debug\net7.0\fournine24.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\fournine24\obj\Debug\net7.0\fournine24.dll
+C:\Users\student\source\repos\fournine24\obj\Debug\net7.0\refint\fournine24.dll
+C:\Users\student\source\repos\fournine24\obj\Debug\net7.0\fournine24.pdb
+C:\Users\student\source\repos\fournine24\obj\Debug\net7.0\fournine24.genruntimeconfig.cache
+C:\Users\student\source\repos\fournine24\obj\Debug\net7.0\ref\fournine24.dll
